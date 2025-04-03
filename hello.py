@@ -1,1 +1,0 @@
-print('heiio sigmas of india')
